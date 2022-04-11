@@ -3,7 +3,7 @@
 # Projet de groupe de 3 personnes classe de DIT 2 INFO ESP/UCAD
   # SAMSAN MUWAWA NGAMAMA
   # PRINCE SIMBA ALIMASI
-  # EL HADJ AHMADOU SAKHIR FALL
+  # EL HADJI AHMADOU SAKHIR FALL
   
 # OBJECTIF : 
   #> Le but du jeu est de découvrir toutes les cases en évitant les mines cachées sous les boutons de la grille du jeu.
